@@ -156,23 +156,32 @@ nav #toggle, nav label{
 
 /** ------------ **** *** END PSEUDOCLASES Y BOOTSTRAP *** **** -------------- **/
 
+
 .section-contact-wahatsapp{
     background-color: #1D1D1D;
     height: 200px;
     text-align: center;
     color: #f6f6f6;
+    align-items: center;
+}
+.alert{
+    width: 40%;
+    align-items: center;
 }
 .section-contact-email{
     background-color: #676767;
     height: 200px;
     text-align: center;
     color: #f6f6f6;
+    padding: 40px 200px;
+    
 }
 .section-contact-ubication{
     background-color: #555454;
     height: 200px;
     text-align: center;
     color: #f6f6f6;
+    padding-top: 100px;
 }
 
 
